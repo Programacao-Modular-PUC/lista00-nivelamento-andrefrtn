@@ -1,6 +1,10 @@
 package com.example.invit_in.food;
 
 
+// Entidade que representa a tabela "foods" no banco de dados.
+// Mapeia os atributos de Food e permite persistência via JPA.
+
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

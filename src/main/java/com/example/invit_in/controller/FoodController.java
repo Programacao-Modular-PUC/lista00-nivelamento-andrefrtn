@@ -1,5 +1,9 @@
 package com.example.invit_in.controller;
 
+// Controller responsável por expor os endpoints da API de Food.
+// Gerencia requisições HTTP para criação e listagem de alimentos.
+
+
 import com.example.invit_in.food.Food;
 import com.example.invit_in.food.FoodRepository;
 import com.example.invit_in.food.FoodRequestDTO;
